@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Gabriel
+-Profissão:Jardineiro
+-Cidade:Gramado
+-O que faz nas horas vaga: Vou ao estadio de futebol
+-Feedback sobre o curso Qualidade de Software: otimo curso
+-Feedback sobre a plataforma de estudo da EBAC: muito boa, bem intuitiva e organizada
+
+Obrigado!!!
+
+
